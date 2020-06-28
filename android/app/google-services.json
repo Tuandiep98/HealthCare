@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211046818266",
+    "firebase_url": "https://healthlogin-b5bc6.firebaseio.com",
+    "project_id": "healthlogin-b5bc6",
+    "storage_bucket": "healthlogin-b5bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211046818266:android:12b5a8d32713f3675260e3",
+        "android_client_info": {
+          "package_name": "com.example.best_flutter_ui_templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211046818266-uoli5nv11ss9revl64s4a3h0uq04h3ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.best_flutter_ui_templates",
+            "certificate_hash": "96f18828a6ca72965fea61d4fcb3a82535749acd"
+          }
+        },
+        {
+          "client_id": "211046818266-ucdj3pmf7bqac3utlemk8qe0buspvk5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKau2BC4AKJ2DoFiogCqx8HbV5qkNBvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211046818266-ucdj3pmf7bqac3utlemk8qe0buspvk5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
